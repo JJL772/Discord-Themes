@@ -1,0 +1,183 @@
+body{
+    font-family: Verdana;
+}
+
+.appMount-14L89u
+{
+    background-color: rgba(0,0,35, 1);
+}
+
+.container-2OU7Cz
+{
+    background: url("https://cdn.discordapp.com/attachments/427728621122355200/433856561949966346/c0c8746c49ec8ebe3773a611fa624398.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW
+{
+}
+
+.theme-dark .chat>.content
+{
+   	background-color: rgba(0, 0, 0, 0);
+}
+
+.innerNoAutocomplete-kaUXJZ
+{
+    border-radius: 10px;
+}
+
+
+.theme-dark .inner-3if5cm
+{
+    /*background-image: url("https://media.giphy.com/media/Yd8QUB5ZNFzaw/giphy.gif");*/
+    opacity: 0.9;
+}
+
+.channels-3g2vYe
+{
+    /* Do actual shit here */
+    background-color: rgba(54,57,62, 0);
+}
+
+.guilds-wrapper
+{
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper
+{
+   	background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark .chat form
+{
+	margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(54,0,62, 0);
+}
+
+.theme-dark .chat
+{
+    background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark .message-group
+{
+    /*background-color: blue;*/
+    border-bottom: 1px solid rgba(0,0,50, 1);
+    border-right: 1px solid rgba(0,0,50, 1);
+    border-left: 1px solid rgba(0,0,50, 1);
+    border-top: 1px solid rgba(0,0,50, 1);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    background-color: rgba(0,0,50, 0.4);
+    border-radius: 5px;
+}
+
+.message-group
+{
+    
+}
+
+.guilds-wrapper
+{
+  	background-color: rgba(54,57,62, 0);
+}
+
+.container-RYiLUQ
+{
+  	background-color: rgba(54,57,62, 0);
+}
+
+.chat .divider
+{
+   
+}
+
+.theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:not(.red) span
+{
+    display: none;
+}
+.container-iksrDt
+{
+    background-color: rgba(0,0,70, 0.5);
+    border: 1px solid rgba(0,0,70, 1);
+    border-radius: 5px;
+}
+
+.theme-dark .members-1bid1J, .theme-dark .title-qAcLxz, .theme-dark #friends, .theme-dark .headerBar-cxbhPD
+{
+   	background-color: rgba(54,57,62, 0);
+}
+
+.private-channels .channel a
+{
+   	background-color: rgba(0,0,70, 0.3);
+   	/*border: 1px solid rgba(0,0,70, 2);*/
+}
+
+.private-channels .channel.selected a
+{
+    background-color: rgba(0,0,75, 0.8);
+}
+
+.private-channels .channel:hover a, .theme-dark #friends .friends-table .friends-row:hover
+{
+    background-color: rgba(0,0,75, 0.8);
+}
+
+.theme-dark .memberOnline-1xn3V8, .theme-dark .memberOffline-lvMbAs
+{
+   	background-color: rgba(0,0,70, 0.3);
+}
+
+.theme-dark .headerNormal-3Vn9nT, .headerPlaying-2Q7mBy, .headerSpotify-26yUf5, .theme-dark .body-3ljq11, .theme-dark .footer-2wFs91
+{
+    
+    background-color: rgba(0,0,70, 0.9);
+    border: none;
+}
+
+.theme-dark .inner-3if5cm
+{
+    background-color: rgba(0,0,50, 0.4);
+}
+
+.theme-dark .body-3_tdh6, .theme-dark .topSectionNormal-2LlRG1, .topSectionSpotify-3744IX, .topSectionPlaying-3jAH9b
+{
+    background-color: rgba(0,0,70, 0.5);
+    border: 1px solid rgba(0,0,80, 1);
+    border: none;
+}
+
+.theme-dark .member-2FrNV0:hover .content-3JzEqq
+{
+    
+    background-color: rgba(0,0,70, 0.5);
+}
+
+.guilds-wrapper .guilds-add
+{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.guilds-wrapper .guilds .guild .guild-inner a
+{
+    background-color: transparent;
+}
+
+.guilds-wrapper .guilds .guild .guild-inner
+{
+    background-color: rgba(0,0,0,0);
+}
+
+.guilds-wrapper .guilds .friends-icon
+{
+    background-image: url(https://i.imgur.com/srA39H0.png);
+    background-size: 50px 50px; 
+    opacity: 1;
+    background-color: rgb(0,0,0);
+}
