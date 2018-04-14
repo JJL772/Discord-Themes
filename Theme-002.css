@@ -1,0 +1,177 @@
+
+body{
+    font-family: Verdana;
+}
+
+.appMount-14L89u
+{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.container-2OU7Cz
+{
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mgW44id/4k-detailed-fire-background-seamless-loop-ultra-hd-slow-motion_bplchfsu__F0000.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.theme-dark .layer-kosS71, .theme-dark .layers-20RVFW
+{
+    
+}
+
+.theme-dark .chat>.content
+{
+   	background-color: rgba(0, 0, 0, 0);
+}
+
+.innerNoAutocomplete-kaUXJZ
+{
+    border-radius: 0;
+}
+
+
+.theme-dark .inner-3if5cm
+{
+    /*background-image: url("https://media.giphy.com/media/Yd8QUB5ZNFzaw/giphy.gif");*/
+    background-color: rgb(0,0,0);
+    opacity: 0.8;
+}
+
+.channels-3g2vYe
+{
+    background-color: rgba(54,57,62, 0);
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/oOhW08j.png);
+    background-size: 101%;
+    background-position: 0px 82%;
+}
+
+.guilds-wrapper
+{
+    
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper
+{
+   	background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark .chat form
+{
+	margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark .chat
+{
+    background-color: rgba(54,57,62, 0);
+    background-image: url(https://i.imgur.com/0POMO8w.png);
+    background-size: cover;
+}
+
+.theme-dark .message-group
+{
+    /*background-color: blue;*/
+    border-bottom: 2px solid rgb(0,70,0);
+    border-right: 2px solid rgb(0,70,0);
+    border-left: 2px solid rgb(0,70,0);
+    border-top: 2px solid rgb(0,70,0);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    background-color: rgba(0,0,0, 0.3);
+    border-radius: 0px;
+}
+
+.message-group
+{
+    
+}
+
+.guilds-wrapper
+{
+  	background-color: rgba(54,57,62, 0);
+}
+
+.container-RYiLUQ
+{
+  	background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:not(.red) span
+{
+    display: none;
+}
+.container-iksrDt
+{
+	background-color: rgba(0,0,0, 0.5);
+    border:2px solid rgb(0,70,0);
+    border-radius: 0px;
+}
+
+.theme-dark .members-1bid1J, .theme-dark .title-qAcLxz, .theme-dark #friends, .theme-dark .headerBar-cxbhPD
+{
+   	background-color: rgba(54,57,62, 0);
+}
+
+.theme-dark #friends
+{
+    background-image: url(https://i.imgur.com/gmYzV33.png);
+    background-size: cover;
+}
+
+.guilds-wrapper .guilds .friends-icon
+{
+    background-image: url(https://i.imgur.com/OJyu9Is.png);
+    background-size: 50px;
+}
+
+.guilds-wrapper .guilds .guild, .guilds-wrapper .guilds .guild .guild-inner
+{
+    background: transparent;
+}
+
+.private-channels .channel a
+{
+   	background-color: rgba(0,0,0, 0.3);
+   	border-radius: 0px;
+   	border: 0px solid rgb(0,70,0);
+   	/*border: 1px solid rgba(0,0,70, 2);*/
+}
+
+.private-channels .channel.selected a, .private-channels .channel:hover a
+{
+   	background-color: rgba(0,70,0, 0.7);
+   	border-radius: 0px;
+   	/*border: 1px solid rgba(0,0,70, 2);*/
+}
+
+.theme-dark .memberOnline-1xn3V8, .theme-dark .memberOffline-lvMbAs
+{
+   	background-color: rgba(0,0, 0, 0.3);
+   	border-radius: 0px;
+   	border: 0px solid rgb(0,70,0);
+}
+
+.containerDefault-1bbItS, .containerDragAfter-3O-noP, .containerDragBefore-2hcouM, .containerUserOver-3O3u5c, .containerDefault-7RImuF, .containerDragAfter-3rB7mB, .containerDragBefore-12YyA9, .containerUserOver-2YhVL6
+{
+    border: 0px solid rgb(0,70,0);
+    padding-top: 0px;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.contentSelectedText-3j5CXt
+{
+    background-color: rgba(0,70,0,0.6);
+}
+
+.theme-dark .membersGroup-3_dP5E
+{
+    background-color: rgba(0,0,0,0.3);
+    margin-left: 3.3%;
+}
