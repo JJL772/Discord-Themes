@@ -10,7 +10,7 @@ body{
     background-color: black;
 }
 
-.container-2OU7Cz
+.container-2OU7Cz, .container-2lgZY8
 {
     background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/mgW44id/4k-detailed-fire-background-seamless-loop-ultra-hd-slow-motion_bplchfsu__F0000.png);
     background-repeat: no-repeat;
@@ -40,13 +40,17 @@ body{
     opacity: 0.8;
 }
 
-.channels-3g2vYe
+.channels-3g2vYe, .channels-Ie2l6A,.channels-Ie2l6A
 {
     background-color: rgba(54,57,62, 0);
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/oOhW08j.png);
     background-size: 101%;
-    background-position: 0px 82%;
+    background-position: 0px 83%;
+}
+
+.container-PNkimc{
+    background-color:transparent;
 }
 
 .guilds-wrapper
@@ -98,7 +102,7 @@ body{
   	background-color: rgba(54,57,62, 0);
 }
 
-.container-RYiLUQ
+.container-RYiLUQ, 
 {
   	background-color: rgba(54,57,62, 0);
 }
@@ -114,7 +118,7 @@ body{
     border-radius: 0px;
 }
 
-.theme-dark .members-1bid1J, .theme-dark .title-qAcLxz, .theme-dark #friends, .theme-dark .headerBar-cxbhPD
+.theme-dark .members-1bid1J, .theme-dark .title-qAcLxz, .theme-dark #friends, .theme-dark .headerBar-cxbhPD,.theme-dark .title-3qD0b-,.theme-dark .members-1998pB
 {
    	background-color: rgba(54,57,62, 0);
 }
@@ -151,7 +155,7 @@ body{
    	/*border: 1px solid rgba(0,0,70, 2);*/
 }
 
-.theme-dark .memberOnline-1xn3V8, .theme-dark .memberOffline-lvMbAs
+.theme-dark .memberOnline-1CIh-0, .theme-dark .memberOffline-2lN7gt
 {
    	background-color: rgba(0,0, 0, 0.3);
    	border-radius: 0px;
@@ -174,4 +178,9 @@ body{
 {
     background-color: rgba(0,0,0,0.3);
     margin-left: 3.3%;
+}
+
+.theme-dark .headerBar-UHpsPw
+{
+    background-color: transparent;
 }
